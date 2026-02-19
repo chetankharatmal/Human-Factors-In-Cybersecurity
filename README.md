@@ -101,13 +101,13 @@ If you reference this work, please cite it as:
   title   = {Human Factors In Cybersecurity: User/Human Behaviour Analysis},
   author  = {Chetan Kharatmal},
   journal = {Indira College of Commerce and Science Journal},
-  year    = {2025},
+  year    = {2026},
   institution = {Indira College of Commerce and Science, Pune}
 }
 ```
 
 **Plain text:**
-> Kharatmal, C. (2025). *Human Factors In Cybersecurity: User/Human Behaviour Analysis*. Indira College of Commerce & Science.
+> Chetan Kharatmal (2026). *Human Factors In Cybersecurity: User/Human Behaviour Analysis*. Indira College of Commerce & Science.
 
 ---
 
