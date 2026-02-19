@@ -87,7 +87,7 @@ Cybersecurity failures are as much a human problem as a technical one. This pape
 ```
 📦 human-factors-cybersecurity/
  ┣ 📄 README.md          — You are here
- ┗ 📄 paper/SC26_02.pdf  — Full research paper (if permitted by journal)
+ ┗ 📄 paper/SC26_02.pdf  — Full research paper
 ```
 
 ---
@@ -99,7 +99,7 @@ If you reference this work, please cite it as:
 ```bibtex
 @article{kharatmal2025humanfactors,
   title   = {Human Factors In Cybersecurity: User/Human Behaviour Analysis},
-  author  = {Kharatmal, Chetan},
+  author  = {Chetan Kharatmal},
   journal = {Indira College of Commerce and Science Journal},
   year    = {2025},
   institution = {Indira College of Commerce and Science, Pune}
