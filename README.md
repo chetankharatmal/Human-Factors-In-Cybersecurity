@@ -113,7 +113,7 @@ If you reference this work, please cite it as:
 
 **Chetan Kharatmal**  
 Indira College of Commerce & Science, Pune  
-📧 Chetan.kharatmal24@iccs.ac.in
+📧 Chetankharatmal931@gmail.com
 
 ---
 
