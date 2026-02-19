@@ -3,6 +3,7 @@
 > **Published in:** Indira College of Commerce & Science (ICCS) Journal — 2025  
 > **Author:** Chetan Kharatmal  
 > **Contact:** Chetankharatmal931@gmail.com
+>  **Linkden** www.linkedin.com/in/chetankharatmal
 
 ---
 
@@ -114,6 +115,7 @@ If you reference this work, please cite it as:
 **Chetan Kharatmal**  
 Indira College of Commerce & Science, Pune  
 📧 Chetankharatmal931@gmail.com
+Linkden : www.linkedin.com/in/chetankharatmal
 
 ---
 
